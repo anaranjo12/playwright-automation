@@ -1,0 +1,23 @@
+{
+  "name": "automation-test-playwright-ts",
+  "version": "1.0.0",
+  "description": "Playwright end to end automated tests",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsnorona/automation-test-playwright-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rsnorona/automation-test-playwright-ts/issues"
+  },
+  "homepage": "https://github.com/rsnorona/automation-test-playwright-ts#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.6.2"
+  }
+}
